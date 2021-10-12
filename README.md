@@ -1,4 +1,4 @@
-# finelvue
+# vue - add to cart
 
 ## Project setup
 ```
