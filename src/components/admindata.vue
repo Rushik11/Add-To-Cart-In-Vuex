@@ -17,6 +17,7 @@
                 <td>{{user.email}}</td>  
                 <p>hiii</p>
                 <p>chang-data</p>
+                <p>chang name</p>
             </tr>
         </tbody>
     </table>
